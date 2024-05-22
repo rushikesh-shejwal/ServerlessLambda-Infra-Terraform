@@ -1,0 +1,27 @@
+
+AMPLITUDE_LOGIN_EVENT_URL = "https://ipacco4fmth5hna5aXXXXXXXXX0igehl.lambda-url.ap-south-1.on.aws/evt/login" #lambda functional url
+ASSISTANT_ID = "asst_jM4p8SUXXXXXXXX82Wh"
+ASSISTANT_URL = "https://dppXXXXXXXXXXmsaa0mpfwk.lambda-url.ap-south-1.on.aws/assistant" #lambda functional url
+COOKIE_DOMAIN = "coachx.com"
+ENCRYPTION = "true"
+ENV = "dev"
+GOAL_SUBMISSION_WINDOW_LENGTH = "21" 
+MONGODB_DB_NAME = "coachx"
+MONGODB_URL = "mongodb+srv://XXXXXXXXXXXXXXXXXXX13qo.mongodb.net/?retryWrites=true&w=majority"
+OPENAI_API_KEY = "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"
+BUILD_BUCKET_NAME = "coachx-build-bucket"
+STAGE_NAME = "dev-coachx"
+CERTIFICATE_ARN =  "arn:aws:acm:ap-south-1:04XXXXXXXXX9:certificate/ed0f0XXX-3dXX-4Xb8-8XXX77-5XXXXX4d4ee" 
+POPULATE_DB_ENUMS = "false"
+SECRET_KEY = "vOVH6sXXXXXXXXXXXXXXXXlwHzfr3"
+SEND_EMAIL_URL = "https://tzkak5vbXXXXXXXXXXXXXo40kxmgu.lambda-url.ap-south-1.on.aws/ses"
+UI_URL = "https://dev.coachx.com"
+ACCESS_KEY_AWS = "AKIXXXXXXXXXXXXXZXB"
+SECRET_KEY_AWS = "Ysn1XXXXXXXXXXXXXXXXXXXXXXXXXXXXuMKr2hQZeM3"
+REGION_AWS = "ap-south-1"
+AMPLITUDE_API_KEY = "a270a7XXXXXXXXXXXXXXXX3f901ffffebee9"
+BUCKET_FOLDER_NAME = "category-images/"
+BUCKET_NAME = "coachx-images-local"
+US_EAST_1_CERTIFICATE_ARN = "arn:aws:acm:us-east-1:0XXXXXXXXXXXX59:certificate/1cXXXXXXdb-bXXXa-4bac-XXXX-4e72XXXXXX489"   #This certificate arn is in us-east-1 region for global cloudfront service
+SMART_GOALS_ASSISTANT_ID = "asst_HYxDXXXXXXXXXXXXXXlqVSTv6E"
+OPENAI_MODEL = "gpt-3.5-turbo-1106"
